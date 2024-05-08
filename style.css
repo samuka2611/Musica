@@ -1,0 +1,24 @@
+body{
+  background-color: #476de1;
+}
+h1{
+  color: #024892;
+  text-align: center;
+}
+h2{
+  color: #20d580;
+  text-align: center;
+}
+#FreiGilson{
+  border: 20px inset #09188b;
+  margin: 5px 570px 5px 570px;
+}
+#AiltonFernandesCardoso{
+  border: 20px inset #09098b;
+  margin: 5px 520px 5px 520px;
+  
+}
+h4{
+   color: #20d580;
+  text-align:center;
+}
